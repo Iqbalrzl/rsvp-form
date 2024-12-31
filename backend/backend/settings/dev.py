@@ -14,6 +14,6 @@ DATABASES = {
         'NAME': 'rsvp',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': '03092002'
+        'PASSWORD': ''
     }
 }
